@@ -1,0 +1,5 @@
+{
+  "name": "P2P Dice Roll Challenge",
+  "description": "A frontend simulation of a peer-to-peer dice rolling game. Users can create challenges with a specific bet amount, and other users can accept these challenges. The player with the higher dice roll wins the pot, minus a small platform fee. This is a simulation and does not involve real currency or blockchain integration.",
+  "requestFramePermissions": []
+}
